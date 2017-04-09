@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Osipov
+Main-Class: ru.ifmo.ctddev.osipov.implementor.Implementor
+Class-Path: lib2/JarImplementorTest.jar

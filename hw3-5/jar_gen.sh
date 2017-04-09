@@ -1,0 +1,1 @@
+jar cfm implementor.jar META-INF/MANIFEST.MF -C out/production/hw3 ru/ifmo/ctddev/osipov/implementor/

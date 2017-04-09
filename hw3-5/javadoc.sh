@@ -1,0 +1,1 @@
+javadoc -author -link https://docs.oracle.com/javase/8/docs/api/ -private -sourcepath "src" -classpath ../lib2/ImplementorTest.jar:../java-advanced/lib/junit-4.11.jar -d javadoc ru.ifmo.ctddev.osipov.implementor info/kgeorgiy/java/advanced/implementor/ImplerException.java info/kgeorgiy/java/advanced/implementor/Impler.java info/kgeorgiy/java/advanced/implementor/JarImpler.java
